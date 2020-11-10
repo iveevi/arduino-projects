@@ -1,0 +1,4 @@
+# Weighing Machine Project
+
+The goal of this project is to create a contraption that can measure mass,
+weight, force and impulse.
